@@ -13,7 +13,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 
 ## Major Topics
 
-#### Understandig core programming (15-20%)
+### Understandig core programming (15-20%)
 
 - Understand computer storage and data types
   * How a computer stores programs and the instructions in computer memory, memory stacks and heaps, memory size requirements for the various data storage types, numeric data and textual data
@@ -27,7 +27,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 - Understand error handling
   * Structured exception handling
 
-#### Understandig object-oriented programming (20-25%)
+### Understandig object-oriented programming (20-25%)
 
 - Understand the fundamentals of classes
   * Properties, methods, events, and constructors; how to create a class; how to use classes in code
@@ -41,7 +41,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 - Understand encapsulation
   * Creating classes that hide their implementation details while still allowing access to the required functionality through the interface, access modifiers
   
- #### Understandig general software development (15-20%)
+ ### Understandig general software development (15-20%)
   
 - Understand application life cycle management
   * Phases of application life cycle management, software testing
@@ -50,7 +50,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 - Understand algorithms and data structures
   * Arrays, stacks, queues, linked lists, and sorting algorithms; performance implications of various data structures; choosing the right data structure
 
-#### Understandig web applications (15-20%)
+### Understandig web applications (15-20%)
 
 - Understand web page development
   * HTML, Cascading Style Sheets (CSS), JavaScript
@@ -61,7 +61,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 - Understand web services
   * Web services that will be consumed by client applications, accessing web services from a client application, SOAP and Web Service Definition Language (WSDL)
   
-#### Understandig desktop applications (15-20%)
+### Understandig desktop applications (15-20%)
 
 - Understand Windows apps
   * UI design guideline categories, characteristics and capabilities of Store Apps, identify gestures
@@ -70,7 +70,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 - Understand Windows Services
   * Characteristics and capabilities of Windows Services
   
-#### Understandig databases (15-20%)
+### Understandig databases (15-20%)
 
 - Understand relational database management systems
   * Characteristics and capabilities of database products, database design, Entity Relationship Diagrams (ERDs), normalization concepts
