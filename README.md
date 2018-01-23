@@ -40,3 +40,41 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 
 - Understand encapsulation
   * Creating classes that hide their implementation details while still allowing access to the required functionality through the interface, access modifiers
+  
+ #### Understandig general software development (15-20%)
+  
+- Understand application life cycle management
+  * Phases of application life cycle management, software testing
+- Interpret application specifications
+  * Reading application specifications and translating them into prototypes, code, select appropriate application type, and components
+- Understand algorithms and data structures
+  * Arrays, stacks, queues, linked lists, and sorting algorithms; performance implications of various data structures; choosing the right data structure
+
+#### Understandig web applications (15-20%)
+
+- Understand web page development
+  * HTML, Cascading Style Sheets (CSS), JavaScript
+- Understand Microsoft ASP.NET web application development
+  * Page life cycle, event model, state management, client-side versus server-side programming
+- Understand web hosting
+  * Creating virtual directories and websites, deploying web applications, understanding the role of Internet Information Services
+- Understand web services
+  * Web services that will be consumed by client applications, accessing web services from a client application, SOAP and Web Service Definition Language (WSDL)
+  
+#### Understandig desktop applications (15-20%)
+
+- Understand Windows apps
+  * UI design guideline categories, characteristics and capabilities of Store Apps, identify gestures
+- Understand console-based applications
+  * Characteristics and capabilities of console-based applications
+- Understand Windows Services
+  * Characteristics and capabilities of Windows Services
+  
+#### Understandig databases (15-20%)
+
+- Understand relational database management systems
+  * Characteristics and capabilities of database products, database design, Entity Relationship Diagrams (ERDs), normalization concepts
+- Understand database query methods
+  * Structured query language (SQL), creating and accessing stored procedures, updating data and selecting data
+- Understand database connection methods
+  * Connecting to various types of data stores, such as flat file; XML file; in-memory object; resource optimization
