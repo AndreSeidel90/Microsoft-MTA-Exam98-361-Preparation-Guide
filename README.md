@@ -90,6 +90,14 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 ## Understandig core programming
 
 #### Videos (FREE Online Courses)
+* [Software Development Fundamentals](https://mva.microsoft.com/en-US/training-courses/software-development-fundamentals-8248?l=xiawPHKy_5104984382)
 * [C# Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169)
 * [Programming in C# Jump Start](https://mva.microsoft.com/en-US/training-courses/programming-in-c-jump-start-14254)
 * [Twenty C# Questions Answered](https://mva.microsoft.com/en-US/training-courses/twenty-c-questions-answered-8298)
+
+#### Guides
+* [C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/index)
+* [Tutorials Point C# Guide](https://www.tutorialspoint.com/csharp/index.htm)
+
+
+
