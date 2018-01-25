@@ -7,6 +7,10 @@ About Exam 98-361
 * [Skills measured](#skills-measured)
 * [Major topics](#major-topics)
 
+Study Material
+* [Understandig core programming](#understandig-core-programming)
+
+
 ## Skills measured
 
 This exam measures your ability to accomplish the technical tasks listed below. The percentages indicate the relative weight of each major topic area on the exam. The higher the percentage, the more questions you are likely to see on that content area on the exam. 
@@ -78,3 +82,14 @@ This exam measures your ability to accomplish the technical tasks listed below. 
   * Structured query language (SQL), creating and accessing stored procedures, updating data and selecting data
 - Understand database connection methods
   * Connecting to various types of data stores, such as flat file; XML file; in-memory object; resource optimization
+ 
+ ---
+  
+# Study Material
+
+## Understandig core programming
+
+#### Videos (FREE Online Courses)
+* [C# Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169)
+* [Programming in C# Jump Start](https://mva.microsoft.com/en-US/training-courses/programming-in-c-jump-start-14254)
+* [Twenty C# Questions Answered](https://mva.microsoft.com/en-US/training-courses/twenty-c-questions-answered-8298)
