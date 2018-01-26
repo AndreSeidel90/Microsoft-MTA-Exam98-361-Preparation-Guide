@@ -87,6 +87,8 @@ This exam measures your ability to accomplish the technical tasks listed below. 
   
 # Study Material
 
+[Microsoft MTA Exam98-361 Guide](Downloads/Microsoft-MTA-Exam-98-361-%20Official-Guide.pdf)
+
 ## Understandig core programming
 
 #### Videos (FREE Online Courses)
