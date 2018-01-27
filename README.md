@@ -9,6 +9,7 @@ About Exam 98-361
 
 Study Material
 * [Understandig core programming](#understandig-core-programming)
+* [Understandig object-oriented programming](#understandig-object-oriented-programming)
 
 
 ## Skills measured
@@ -89,10 +90,12 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 
 [Microsoft MTA Exam98-361 Guide](Downloads/Microsoft-MTA-Exam-98-361-%20Official-Guide.pdf)
 
+[Official Exam free training couse](https://mva.microsoft.com/en-US/training-courses/software-development-fundamentals-8248?l=xiawPHKy_5104984382)
+
 ## Understandig core programming
 
 #### Videos (FREE Online Courses)
-* [Software Development Fundamentals](https://mva.microsoft.com/en-US/training-courses/software-development-fundamentals-8248?l=xiawPHKy_5104984382)
+
 * [C# Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169)
 * [Programming in C# Jump Start](https://mva.microsoft.com/en-US/training-courses/programming-in-c-jump-start-14254)
 * [Twenty C# Questions Answered](https://mva.microsoft.com/en-US/training-courses/twenty-c-questions-answered-8298)
@@ -101,5 +104,11 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 * [C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/index)
 * [Tutorials Point C# Guide](https://www.tutorialspoint.com/csharp/index.htm)
 
+## Understandig object-oriented programming
 
+#### Videos (FREE Online Courses)
+* [Basics of Object Oriented Programming with C#](https://www.udemy.com/basics-of-object-oriented-programming-with-csharp/)
+
+#### Guides
+* [Object-Oriented Programming (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/object-oriented-programming)
 
