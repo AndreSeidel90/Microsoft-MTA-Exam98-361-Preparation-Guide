@@ -101,6 +101,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 * [Twenty C# Questions Answered](https://mva.microsoft.com/en-US/training-courses/twenty-c-questions-answered-8298)
 
 #### Guides
+* [C# Quick Reference Guide](https://github.com/andredarcie/csharp-quick-reference-guide)
 * [C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/index)
 * [Tutorials Point C# Guide](https://www.tutorialspoint.com/csharp/index.htm)
 
