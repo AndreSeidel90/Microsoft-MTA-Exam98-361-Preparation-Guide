@@ -116,5 +116,10 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 #### Guides
 * [Object-Oriented Programming (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/object-oriented-programming)
 
+## Understandig general software development 
+
+#### Videos (FREE Online Courses)
+* [Fundamentals of Application Lifecycle Management](https://mva.microsoft.com/en-US/training-courses/fundamentals-of-application-lifecycle-management-10520?l=YdJk8C87_3004984382)
+* [Managing the Application Lifecycle with MSDN](https://mva.microsoft.com/en-US/training-courses/managing-the-application-lifecycle-with-msdn-9018?l=ls9iwKU3_7404984382)
 
 
