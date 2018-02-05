@@ -8,8 +8,9 @@ About Exam 98-361
 * [Major topics](#major-topics)
 
 Study Material
-* [Understandig core programming](#understandig-core-programming)
-* [Understandig object-oriented programming](#understandig-object-oriented-programming)
+* [Understanding core programming](#understanding-core-programming)
+* [Understanding object-oriented programming](#understanding-object-oriented-programming)
+* [Understanding general software development](#understanding-general-software-development)
 
 
 ## Skills measured
@@ -18,7 +19,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 
 ## Major Topics
 
-### Understandig core programming (15-20%)
+### Understanding core programming (15-20%)
 
 - Understand computer storage and data types
   * How a computer stores programs and the instructions in computer memory, memory stacks and heaps, memory size requirements for the various data storage types, numeric data and textual data
@@ -32,7 +33,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 - Understand error handling
   * Structured exception handling
 
-### Understandig object-oriented programming (20-25%)
+### Understanding object-oriented programming (20-25%)
 
 - Understand the fundamentals of classes
   * Properties, methods, events, and constructors; how to create a class; how to use classes in code
@@ -46,7 +47,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 - Understand encapsulation
   * Creating classes that hide their implementation details while still allowing access to the required functionality through the interface, access modifiers
   
- ### Understandig general software development (15-20%)
+ ### Understanding general software development (15-20%)
   
 - Understand application life cycle management
   * Phases of application life cycle management, software testing
@@ -55,7 +56,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 - Understand algorithms and data structures
   * Arrays, stacks, queues, linked lists, and sorting algorithms; performance implications of various data structures; choosing the right data structure
 
-### Understandig web applications (15-20%)
+### Understanding web applications (15-20%)
 
 - Understand web page development
   * HTML, Cascading Style Sheets (CSS), JavaScript
@@ -66,7 +67,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 - Understand web services
   * Web services that will be consumed by client applications, accessing web services from a client application, SOAP and Web Service Definition Language (WSDL)
   
-### Understandig desktop applications (15-20%)
+### Understanding desktop applications (15-20%)
 
 - Understand Windows apps
   * UI design guideline categories, characteristics and capabilities of Store Apps, identify gestures
@@ -75,7 +76,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 - Understand Windows Services
   * Characteristics and capabilities of Windows Services
   
-### Understandig databases (15-20%)
+### Understanding databases (15-20%)
 
 - Understand relational database management systems
   * Characteristics and capabilities of database products, database design, Entity Relationship Diagrams (ERDs), normalization concepts
@@ -92,7 +93,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 
 [Official Exam free training couse](https://mva.microsoft.com/en-US/training-courses/software-development-fundamentals-8248?l=xiawPHKy_5104984382)
 
-## Understandig core programming
+## Understanding core programming
 
 #### Videos (FREE Online Courses)
 
@@ -105,7 +106,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 * [C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/index)
 * [Tutorials Point C# Guide](https://www.tutorialspoint.com/csharp/index.htm)
 
-## Understandig object-oriented programming
+## Understanding object-oriented programming
 
 #### Videos (FREE Online Courses)
 * [Basics of Object Oriented Programming with C#](https://www.udemy.com/basics-of-object-oriented-programming-with-csharp/)
@@ -116,7 +117,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 #### Guides
 * [Object-Oriented Programming (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/object-oriented-programming)
 
-## Understandig general software development 
+## Understanding general software development 
 
 #### Videos (FREE Online Courses)
 * [Fundamentals of Application Lifecycle Management](https://mva.microsoft.com/en-US/training-courses/fundamentals-of-application-lifecycle-management-10520?l=YdJk8C87_3004984382)
