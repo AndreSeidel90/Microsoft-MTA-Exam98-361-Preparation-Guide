@@ -110,6 +110,11 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 #### Videos (FREE Online Courses)
 * [Basics of Object Oriented Programming with C#](https://www.udemy.com/basics-of-object-oriented-programming-with-csharp/)
 
+#### Videos (PAID Online Courses)
+* [Object Oriented Programming fundamentals - C#](https://www.pluralsight.com/courses/object-oriented-programming-fundamentals-csharp)
+
 #### Guides
 * [Object-Oriented Programming (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/object-oriented-programming)
+
+
 
