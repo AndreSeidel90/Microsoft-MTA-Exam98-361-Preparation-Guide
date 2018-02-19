@@ -124,4 +124,8 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 * [Fundamentals of Application Lifecycle Management](https://mva.microsoft.com/en-US/training-courses/fundamentals-of-application-lifecycle-management-10520?l=YdJk8C87_3004984382)
 * [Managing the Application Lifecycle with MSDN](https://mva.microsoft.com/en-US/training-courses/managing-the-application-lifecycle-with-msdn-9018?l=ls9iwKU3_7404984382)
 
+#### Videos (PAID Online Courses)
+* [Data Structures and Algorithms Through C# In Depth](https://www.udemy.com/data-structures-and-algorithms-in-csharp/)
 
+#### Guides
+* [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms)
