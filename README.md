@@ -138,5 +138,5 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 * [ASP.NET Core - Beginner](https://mva.microsoft.com/en-US/training-courses/aspnet-core-beginner-18153)
 
 #### Guides
-* [Codecademy - ](https://www.codecademy.com/courses/html-javascript-css)
+* [Codecademy - HTML, css and javascript ](https://www.codecademy.com/courses/html-javascript-css)
 
