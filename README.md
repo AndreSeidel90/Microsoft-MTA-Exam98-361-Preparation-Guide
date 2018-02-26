@@ -11,6 +11,7 @@ Study Material
 * [Understanding core programming](#understanding-core-programming)
 * [Understanding object-oriented programming](#understanding-object-oriented-programming)
 * [Understanding general software development](#understanding-general-software-development)
+* [Understanding web applications](#understanding-web-applications)
 
 
 ## Skills measured
@@ -129,3 +130,13 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 
 #### Guides
 * [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms)
+
+## Understanding web applications
+
+#### Videos (FREE Online Courses)
+* [HTML5 App Development Fundamentals](https://mva.microsoft.com/en-US/training-courses/preparing-for-exam-mta-98375-html5-app-development-fundamentals-8354)
+* [ASP.NET Core - Beginner](https://mva.microsoft.com/en-US/training-courses/aspnet-core-beginner-18153)
+
+#### Guides
+* [Codecademy - ](https://www.codecademy.com/courses/html-javascript-css)
+
