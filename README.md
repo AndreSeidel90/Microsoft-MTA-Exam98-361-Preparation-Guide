@@ -108,6 +108,10 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 * [Tutorials Point C# Guide](https://www.tutorialspoint.com/csharp/index.htm)
 * [Hidden Features of C#](https://stackoverflow.com/questions/9033/hidden-features-of-c?rq=1)
 
+#### Books (paid)
+* [C# Quick Syntax Reference](https://www.apress.com/la/book/9781430262800)
+
+
 ## Understanding object-oriented programming
 
 #### Videos (FREE Online Courses)
