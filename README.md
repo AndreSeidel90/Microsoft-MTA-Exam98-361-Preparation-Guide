@@ -141,6 +141,9 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 * [HTML5 App Development Fundamentals](https://mva.microsoft.com/en-US/training-courses/preparing-for-exam-mta-98375-html5-app-development-fundamentals-8354)
 * [ASP.NET Core - Beginner](https://mva.microsoft.com/en-US/training-courses/aspnet-core-beginner-18153)
 
+#### Videos (PAID Online Courses)
+* [Learn By Example: The Foundations of HTML, CSS & Javascript](https://www.udemy.com/learn-by-example-html-css-javascript/)
+
 #### Guides
 * [Codecademy - HTML, css and javascript ](https://www.codecademy.com/courses/html-javascript-css)
 
