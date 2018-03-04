@@ -13,6 +13,7 @@ Study Material
 * [Understanding general software development](#understanding-general-software-development)
 * [Understanding web applications](#understanding-web-applications)
 * [Understanding desktop applications](#understanding-desktop-applications)
+* [Understanding databases](#understanding-databases)
 
 ## Skills measured
 
@@ -153,4 +154,10 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 * [Windows 10 Development for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/windows-10-development-for-absolute-beginners-14541?l=cWn0dxwqB_4305632527)
 * [Windows 10: Developing Responsive and Adaptive UIs](https://mva.microsoft.com/en-US/training-courses/windows-10-developing-responsive-and-adaptive-uis-14584?l=tiUU44EsB_2405632527)
 * [Developer's Guide to the Desktop Bridge](https://mva.microsoft.com/en-US/training-courses/developers-guide-to-the-desktop-bridge-17373?l=d0oKZ0WhD_8606218965)
+
+### Understanding databases
+
+#### Videos (FREE Online Courses)
+* [SQL Database Fundamentals](https://mva.microsoft.com/en-US/training-courses/sql-database-fundamentals-16944)
+
 
