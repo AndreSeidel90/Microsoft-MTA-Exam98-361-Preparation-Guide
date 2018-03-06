@@ -163,3 +163,6 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 #### Videos (PAID Online Courses)
 * [The Complete Database Design & Modeling Beginners Tutorial](https://www.udemy.com/the-complete-database-modeling-and-design-beginners-tutorial/)
 
+#### Guides
+* [Codecademy - Learn SQL](https://www.codecademy.com/learn/learn-sql)
+
