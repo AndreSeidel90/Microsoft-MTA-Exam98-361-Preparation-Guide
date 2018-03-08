@@ -146,7 +146,9 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 * [Learn By Example: The Foundations of HTML, CSS & Javascript](https://www.udemy.com/learn-by-example-html-css-javascript/)
 
 #### Guides
-* [Codecademy - HTML, css and javascript ](https://www.codecademy.com/courses/html-javascript-css)
+* [Codecademy - Learn HTML ](https://www.codecademy.com/learn/learn-html)
+* [Codecademy - Learn CSS ](https://www.codecademy.com/learn/learn-css)
+* [Codecademy - Learn Javascript ](https://www.codecademy.com/learn/introduction-to-javascript)
 
 ## Understanding desktop applications
 
