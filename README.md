@@ -161,6 +161,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 
 #### Videos (FREE Online Courses)
 * [SQL Database Fundamentals](https://mva.microsoft.com/en-US/training-courses/sql-database-fundamentals-16944)
+* [Implementing Entity Framework with MVC](https://mva.microsoft.com/en-US/training-courses/implementing-entity-framework-with-mvc-8931?l=e2H2lDC3_8304984382)
 
 #### Videos (PAID Online Courses)
 * [The Complete Database Design & Modeling Beginners Tutorial](https://www.udemy.com/the-complete-database-modeling-and-design-beginners-tutorial/)
