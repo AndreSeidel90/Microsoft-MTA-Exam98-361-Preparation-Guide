@@ -157,7 +157,7 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 * [Windows 10: Developing Responsive and Adaptive UIs](https://mva.microsoft.com/en-US/training-courses/windows-10-developing-responsive-and-adaptive-uis-14584?l=tiUU44EsB_2405632527)
 * [Developer's Guide to the Desktop Bridge](https://mva.microsoft.com/en-US/training-courses/developers-guide-to-the-desktop-bridge-17373?l=d0oKZ0WhD_8606218965)
 
-### Understanding databases
+## Understanding databases
 
 #### Videos (FREE Online Courses)
 * [SQL Database Fundamentals](https://mva.microsoft.com/en-US/training-courses/sql-database-fundamentals-16944)
